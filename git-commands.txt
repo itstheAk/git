@@ -7,3 +7,4 @@ git add -A
 git commit -m "<<commit_msg>>"
 git commit -a -m ""<<commit_msg>>
 git reset HEAD <<filename>>
+git log
