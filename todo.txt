@@ -1,0 +1,10 @@
+TODO
+----
+GIT
+Spring
+SpringBoot
+NoSQL
+Cloud
+Docker
+Kafka
+ELK
