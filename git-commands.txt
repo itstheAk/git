@@ -10,3 +10,4 @@ git reset HEAD <<filename>>
 git log
 git branch
 git merge
+git fetch
